@@ -27,4 +27,7 @@ APK tested working on:
 Samsung Galaxy Tab S7+ 12.4 (2020)
 
 
+![Screenshot](screenshot.png)
+
+
 
