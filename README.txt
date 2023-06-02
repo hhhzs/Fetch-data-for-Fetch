@@ -1,4 +1,5 @@
 Fetch data for Fetch Assignment! 
+https://fetch-hiring.s3.amazonaws.com/mobile.html
 
 
 Requirments:
@@ -27,7 +28,6 @@ APK tested working on:
 Samsung Galaxy Tab S7+ 12.4 (2020)
 
 
-![Screenshot](1.png)
 
 
 
