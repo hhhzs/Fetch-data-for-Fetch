@@ -28,6 +28,6 @@ APK tested working on:
 Samsung Galaxy Tab S7+ 12.4 (2020)
 
 
-![Screenshot](1.png)
+<img width="274" alt="1" src="https://github.com/hhhzs/Fetch-data-for-Fetch/assets/49502672/f0ff4de3-c5ba-4b83-a2a3-cb8b5f6cfa6b">
 
 
